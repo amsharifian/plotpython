@@ -1,4 +1,4 @@
-workload,function,num_ch, avg_ch_length, max_ch_length, ILP, MAX_ILP, max_level, max_mlp
+workload,function,num_ch,avg_ch_length,max_ch_length,ILP,MAX_ILP,max_level,max_mlp
 164.gzip.dfg,dfg.__offload_func_17,29,1.2069,3,5.8,11,5,4
 175.vpr.dfg,dfg.__offload_func_59,29,1.37931,3,4.83333,9,6,3
 179.art.dfg,dfg.__offload_func_69,19,1.21053,2,3.16667,7,6,4
@@ -27,4 +27,3 @@ freqmine.dfg,dfg.__offload_func_25,38,1.52632,3,6.33333,18,6,5
 sar-backprojection.dfg,dfg.__offload_func_983946,7,1.14286,2,1.75,3,4,1
 sar-pfa-interp1.dfg,dfg.__offload_func_661,17,1.11765,3,4.25,8,4,2
 streamcluster.dfg,dfg.__offload_func_111,17,1.35294,3,4.25,7,4,2
-swaptions.dfg,dfg.__offload_func_200727416487125835476,406,1.04926,2,8.12,29,50,16
